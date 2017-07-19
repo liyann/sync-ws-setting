@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="index" type="HTML" />
-      <mapping pattern="function*.js" type="Native" />
-    </extensionMap>
-  </component>
-</application>
