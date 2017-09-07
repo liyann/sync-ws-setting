@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/bailicangdu/react-pxq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/facebook/react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Code\WebstormProjects\" />
