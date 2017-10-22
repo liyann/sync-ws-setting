@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="index" type="HTML" />
       <mapping pattern="function*.js" type="Native" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
