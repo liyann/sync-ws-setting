@@ -1,40 +1,21 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/react-native" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-native-vector-icons" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-navigation" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="axios" type="javaScript">
       <properties>
         <option name="frameworkName" value="node_modules" />
         <option name="frameworkVersion" value="" />
-        <sourceFilesUrls>
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/dist/axios.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/index.d.ts" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/index.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/adapters/http.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/adapters/xhr.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/axios.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/cancel/Cancel.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/cancel/CancelToken.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/cancel/isCancel.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/Axios.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/InterceptorManager.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/createError.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/dispatchRequest.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/enhanceError.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/settle.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/core/transformData.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/defaults.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/bind.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/btoa.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/buildURL.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/combineURLs.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/cookies.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/deprecatedMethod.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/isAbsoluteURL.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/isURLSameOrigin.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/normalizeHeaderName.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/parseHeaders.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/helpers/spread.js" />
-          <item url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/lib/utils.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://F:/Code/WebstormProjects/my-blog/node_modules/axios/dist/axios.js" />
@@ -71,55 +52,30 @@
       <SOURCES />
     </library>
     <library name="bootstrap-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="chai-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="electron-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_electron_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_electron_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="flowjs-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_flowjs_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_flowjs_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="jest-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jest_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jest_index.d.ts" />
       </CLASSES>
@@ -128,9 +84,6 @@
     <library name="jQuery-2.0.0" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
@@ -141,12 +94,6 @@
       <SOURCES />
     </library>
     <library name="mocha-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_index.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_index.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
@@ -154,33 +101,12 @@
       <SOURCES />
     </library>
     <library name="react-addons-pure-render-mixin-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-addons-pure-render-mixin_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-addons-pure-render-mixin_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-linked-state-mixin.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-perf.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-pure-render-mixin.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-shallow-compare.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-test-utils.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-transition-group.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-update.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
@@ -198,66 +124,36 @@
       <SOURCES />
     </library>
     <library name="react-dnd-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-dnd_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-dnd_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-redux-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-redux_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-redux_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-router-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-router_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-router_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-router-redux-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react-router-redux_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react-router-redux_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="socket.io-client-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_socket.io-client_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_socket.io-client_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="socket.io-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_socket.io_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_socket.io_index.d.ts" />
       </CLASSES>
