@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration" showBalloons="false">
-    <notification groupId="JSCS Messages" shouldLog="false" />
-  </component>
-</application>
