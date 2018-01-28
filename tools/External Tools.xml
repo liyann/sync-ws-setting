@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
   <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="F:\Code\WebstormProjects\ss-admin\ssadmin\node_modules\.bin\prettier.cmd" />
+      <option name="COMMAND" value="C:\Users\yanna\AppData\Roaming\npm\prettier.cmd" />
       <option name="PARAMETERS" value="--print-width 100 --write $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="F:/Code/WebstormProjects/ss-admin/ssadmin/node_modules/.bin" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/ssadmin" />
     </exec>
   </tool>
 </toolSet>
