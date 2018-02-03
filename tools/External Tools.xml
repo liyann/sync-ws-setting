@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\yanna\AppData\Roaming\npm\prettier.cmd" />
       <option name="PARAMETERS" value="--print-width 100 --write $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/ssadmin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/yanna/Code/ssadmin" />
     </exec>
   </tool>
 </toolSet>
